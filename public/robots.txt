@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /booking
+Allow: /package-booking
+Allow: /service-booking
+Allow: /gift-voucher
+
+Sitemap: https://example.com/sitemap.xml
